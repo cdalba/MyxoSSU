@@ -1,0 +1,8 @@
+Taxlevel	Correct	Proportion	Incorrect	Proportion	Missing	Proportion
+1	100	1	0	0	0	0
+2	100	1	0	0	0	0
+3	100	1	0	0	0	0
+4	87	0.87	3	0.03	10	0.1
+5	84	0.84	3	0.03	13	0.13
+6	57	0.57	5	0.05	38	0.38
+7	57	0.57	5	0.05	38	0.38
