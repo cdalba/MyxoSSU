@@ -1,0 +1,14 @@
+Eukaryota;Amoebozoa;Myxogastria;Ceratiomyxales;Ceratiomyxaceae	4
+Eukaryota;Amoebozoa;Myxogastria;Echinosteliales;Clastodermataceae	4
+Eukaryota;Amoebozoa;Myxogastria;Echinosteliales;Echinosteliaceae	7
+Eukaryota;Amoebozoa;Myxogastria;Echinosteliales;Echinosteliopsidaceae	1
+Eukaryota;Amoebozoa;Myxogastria;Liceales;Cribrariaceae	5
+Eukaryota;Amoebozoa;Myxogastria;Liceales;Enteridiidae	1
+Eukaryota;Amoebozoa;Myxogastria;Liceales;Liceaceae	7
+Eukaryota;Amoebozoa;Myxogastria;Liceales;Reticulariaceae	7
+Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae	332
+Eukaryota;Amoebozoa;Myxogastria;Physarales;Elaeomyxaceae	2
+Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae	299
+Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea	302
+Eukaryota;Amoebozoa;Myxogastria;Trichiales;Dianemataceae	2
+Eukaryota;Amoebozoa;Myxogastria;Trichiales;Trichiaceae	40

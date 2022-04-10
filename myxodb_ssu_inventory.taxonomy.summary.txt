@@ -1,0 +1,33 @@
+Metaxa2_ttt run started at Fri Apr  1 16:28:20 2022.
+-----------------------------------------------------------------
+Will process 1013 entries...
+1013 entries passed type filtering,
+of which 0 are regarded unknown.
+Maximum taxonomic depth is 7.
+-----------------------------------------------------------------
+Statistics for level 1:
+  Number of taxa :       	1
+  Number of unclassified:	0
+  Mean group size:       	1013
+Statistics for level 2:
+  Number of taxa :       	1
+  Number of unclassified:	0
+  Mean group size:       	1013
+Statistics for level 3:
+  Number of taxa :       	1
+  Number of unclassified:	0
+  Mean group size:       	1013
+Statistics for level 4:
+  Number of taxa :       	6
+  Number of unclassified:	0
+  Mean group size:       	168.833333333333
+Statistics for level 5:
+  Number of taxa :       	14
+  Number of unclassified:	0
+  Mean group size:       	72.3571428571429
+Statistics for level 6:
+  Number of taxa :       	219
+  Number of unclassified:	0
+  Mean group size:       	4.62557077625571
+-----------------------------------------------------------------
+Metaxa2_ttt run ended at Fri Apr  1 16:28:20 2022.
