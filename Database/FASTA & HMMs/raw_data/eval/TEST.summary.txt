@@ -1,0 +1,141 @@
+Metaxa run started at Wed Mar 30 22:14:19 2022.
+-----------------------------------------------------------------
+Number of sequences in input file:       	101
+Sequences detected as SSU rRNA by Metaxa:	101
+  On main strand:         	96
+  On complementary strand:	5
+SSU rRNA sequences by preliminary origin:
+  Archaea:     	0
+  Bacteria:    	0
+  Eukaryota:   	101
+  Chloroplast: 	0
+  Mitochondria:	0
+  Other:       	0
+-----------------------------------------------------------------
+Number of SSU rRNA sequences to be classified by Metaxa:  	102
+Number of SSU rRNA having at least one database match:    	101
+Number of SSU rRNA successfully classified by Metaxa:     	101
+Number of uncertain classifications of SSU rRNA sequences:	0
+Total number of classifications made by Metaxa:           	101
+Number of SSU rRNA sequences assigned to each origin:
+  Archaea:     	0
+  Bacteria:    	0
+  Eukaryota:   	101
+  Chloroplast: 	0
+  Mitochondria:	0
+  Uncertain:   	0
+-----------------------------------------------------------------
+Sequences of archaeal origin:
+-----------------------------------------------------------------
+Sequences of bacterial origin:
+-----------------------------------------------------------------
+Sequences of eukaryote origin:
+AF239229.E
+AY842034.E
+DQ903668.E
+DQ903686.E
+EF513175.E
+HE614601.E
+HE614605.E
+HQ687194.E
+JQ031959.E
+JQ031960.E
+JQ031968.E
+JQ031976.E
+JQ031991.E
+JQ812620.E
+JQ812632.E
+JQ812635.E
+JQ812637.E
+JQ812642.E
+JQ812672.E
+JQ812676.E
+JQ812677.E
+JQ812678.E
+JX481287.E
+JX481315.E
+KM494995.E
+KM495049.E
+KM977849.E
+KM977874.E
+KM977875.E
+KP323382.E
+KP967126.E
+KP967127.E
+KP967195.E
+KP967247.E
+KR029644.E
+KR029649.E
+KR029684.E
+KR029688.E
+KR029690.E
+KR029693.E
+KR029703.E
+KR068578.E
+KY101034.E
+KY123410.E
+KY123418.E
+KY123433.E
+KY123437.E
+LT670247.E
+LT670263.E
+LT670272.E
+LT670276.E
+LT670283.E
+LT670289.E
+LT670300.E
+LT670301.E
+LT670353.E
+LT670415.E
+LT670438.E
+LT670444.E
+LT670549.E
+LT670564.E
+MH930528.E
+MH930531.E
+MH930533.E
+MH930542.E
+MH930552.E
+MH930620.E
+MH930649.E
+MH930686.E
+MH930689.E
+MH930698.E
+MH930700.E
+MH930728.E
+MH930730.E
+MH930769.E
+MH930784.E
+MH930787.E
+MN595318.E
+MN595447.E
+MN595531.E
+MN595535.E
+MN595582.E
+MT704220.E
+MT704224.E
+MT704245.E
+MW514581.E
+MW514582.E
+MW514589.E
+MW514590.E
+MW514603.E
+MW514619.E
+MW514641.E
+MW514650.E
+MW514651.E
+MW514653.E
+MW691500.E
+MW691576.E
+MW691578.E
+MW693018.E
+MZ005927.E
+MZ241467.E
+-----------------------------------------------------------------
+Sequences of chloroplast origin:
+-----------------------------------------------------------------
+Sequences of mitochondrial origin:
+-----------------------------------------------------------------
+Sequences of uncertain origin:
+-----------------------------------------------------------------
+Metaxa run finished at Wed Mar 30 22:14:29 2022.

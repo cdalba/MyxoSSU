@@ -1,0 +1,101 @@
+AF239229.E	Eukaryota;Amoebozoa;Myxogastria;	90.05	593	88.24
+AY842034.E	Eukaryota;Amoebozoa;Myxogastria;	91.78	221	88.18
+DQ903668.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Meriderma echinulatum;Meriderma echinulatum;	89.10	569	87.58
+DQ903686.E	Eukaryota;Amoebozoa;Myxogastria;	93.80	613	87.47
+EF513175.E	Eukaryota;Amoebozoa;Myxogastria;	86.15	585	80.55
+HE614601.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;	98.78	82	90.16
+HE614605.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;	95.18	83	87.78
+HQ687194.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	97.23	579	89.48
+JQ031959.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	94.35	567	91.58
+JQ031960.E	Eukaryota;Amoebozoa;Myxogastria;	98.63	73	87.62
+JQ031968.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	95.57	587	92.45
+JQ031976.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	98.63	73	88.21
+JQ031991.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;	100	63	87.96
+JQ812620.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum vernum;Physarum vernum;	100	585	95.15
+JQ812632.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum vernum;Physarum vernum;	100	586	94.85
+JQ812635.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Didymium dubium;Didymium dubium;	99.17	363	91.37
+JQ812637.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum albescens;Physarum albescens;	100	77	90.09
+JQ812642.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Lamproderma arcyrioides;Lamproderma arcyrioides;	96.41	530	92.66
+JQ812672.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	93.46	551	90.71
+JQ812676.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Lamproderma echinosporum;Lamproderma echinosporum;	100	590	95.30
+JQ812677.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Lamproderma echinosporum;Lamproderma echinosporum;	99.83	594	95.21
+JQ812678.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Lamproderma echinosporum;Lamproderma echinosporum;	99.66	594	95.11
+JX481287.E	Eukaryota;Amoebozoa;Myxogastria;	86.43	838	84.04
+JX481315.E	Eukaryota;Amoebozoa;Myxogastria;Trichiales;Trichiaceae;Trichia varia;Trichia varia;	92.25	3850	98.90
+KM494995.E	Eukaryota;Amoebozoa;Myxogastria;Trichiales;Trichiaceae;Trichia varia;Trichia varia;	87.68	4369	95.27
+KM495049.E	Eukaryota;Amoebozoa;Myxogastria;Trichiales;Trichiaceae;Trichia varia;Trichia varia;	100	1863	99.64
+KM977849.E	Eukaryota;Amoebozoa;Myxogastria;	98.81	84	88.88
+KM977874.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;	97.61	84	87.62
+KM977875.E	Eukaryota;Amoebozoa;Myxogastria;	100	71	89.15
+KP323382.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	100	83	89.83
+KP967126.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	92.85	56	87.12
+KP967127.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	93.54	93	87.01
+KP967195.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	99.64	563	94.56
+KP967247.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Meriderma echinulatum;Meriderma echinulatum;	100	553	95.06
+KR029644.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma meyerae;Diderma meyerae;	99.82	557	76.07
+KR029649.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma niveum;Diderma niveum;	99.82	566	95.10
+KR029684.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma meyerae;Diderma meyerae;	99.47	572	76.04
+KR029688.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma niveum;Diderma niveum;	100	555	95.20
+KR029690.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma niveum;Diderma niveum;	98.83	86	90.38
+KR029693.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma niveum;Diderma niveum;	100	553	95.19
+KR029703.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma niveum;Diderma niveum;	99.82	569	95.15
+KR068578.E	Eukaryota;Amoebozoa;Myxogastria;	97.61	544	93.63
+KY101034.E	Eukaryota;Amoebozoa;Myxogastria;Trichiales;Trichiaceae;Hemitrichia serpula;Hemitrichia serpula;	99.77	452	93.90
+KY123410.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Lepidoderma chailletii;Lepidoderma chailletii;	99.28	558	94.66
+KY123418.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Lepidoderma chailletii;Lepidoderma chailletii;	100	340	93.43
+KY123433.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Lepidoderma chailletii;Lepidoderma chailletii;	99.70	341	92.67
+KY123437.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Lepidoderma chailletii;Lepidoderma chailletii;	100	333	92.40
+LT670247.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Meriderma carestiae;Meriderma carestiae;	99.04	314	92.91
+LT670263.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Meriderma aggregatum;Meriderma aggregatum;	99.69	327	93.18
+LT670272.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	100	312	93.04
+LT670276.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Lepidoderma chailletii;Lepidoderma chailletii;	100	81	90.90
+LT670283.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum vernum;Physarum vernum;	98.94	95	90.08
+LT670289.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum alpestre;Physarum alpestre;	100	312	93.04
+LT670300.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Meriderma carestiae;Meriderma carestiae;	100	314	92.22
+LT670301.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Lamproderma ovoideum;Lamproderma ovoideum;	95.93	320	90.41
+LT670353.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Lamproderma ovoideum;Lamproderma ovoideum;	100	319	93.21
+LT670415.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	92.30	78	86.15
+LT670438.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum pseudonotabile;Physarum pseudonotabile;	99.37	322	92.72
+LT670444.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum pseudonotabile;Physarum pseudonotabile;	99.38	323	92.59
+LT670549.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Lamproderma ovoideum;Lamproderma ovoideum;	99.81	554	95.03
+LT670564.E	Eukaryota;Amoebozoa;Myxogastria;	92.64	68	86.73
+MH930528.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	95.55	360	88.87
+MH930531.E	Eukaryota;Amoebozoa;Myxogastria;	94.14	564	88.76
+MH930533.E	Eukaryota;Amoebozoa;Myxogastria;	88.83	412	84.89
+MH930542.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;	99.08	545	88.14
+MH930552.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Didymium dubium;Didymium dubium;	99.23	520	92.62
+MH930620.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	98.36	550	93.89
+MH930649.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;	99.64	563	93.98
+MH930686.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Mucilago crustacea;Mucilago crustacea;	99.64	557	94.48
+MH930689.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarella oblonga;Physarella oblonga;	97.12	382	92.14
+MH930698.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;	99.42	521	91.10
+MH930700.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum alpestre;Physarum alpestre;	99.63	542	75.72
+MH930728.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;	89.48	371	84.94
+MH930730.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;	99.45	369	86.11
+MH930769.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum album;Physarum album;	98.22	394	92.59
+MH930784.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Stemonitis axifera;Stemonitis axifera;	94.84	388	91.16
+MH930787.E	Eukaryota;Amoebozoa;Myxogastria;	94.64	177	89.16
+MN595318.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma meyerae;Diderma meyerae;	99.69	324	93.15
+MN595447.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;	99.82	555	94.40
+MN595531.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma europaeum;Diderma europaeum;	100	547	76.03
+MN595535.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma microcarpum;Diderma microcarpum;	99.81	553	94.96
+MN595582.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma niveum;Diderma niveum;	100	553	95.02
+MT704220.E	Eukaryota;Amoebozoa;Myxogastria;	98.26	577	92.11
+MT704224.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;	96.81	565	93.23
+MT704245.E	Eukaryota;Amoebozoa;Myxogastria;	99.64	562	92.89
+MW514581.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Lamproderma echinosporum;Lamproderma echinosporum;	100	364	93.59
+MW514582.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma niveum;Diderma niveum;	99.69	328	93.16
+MW514589.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Lamproderma ovoideum;Lamproderma ovoideum;	99.69	326	93.10
+MW514590.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;	100	322	93.31
+MW514603.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Lepidoderma chailletii;Lepidoderma chailletii;	100	319	93.18
+MW514619.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum alpestre;Physarum alpestre;	100	318	92.85
+MW514641.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma alpinum;Diderma alpinum;	100	315	93.24
+MW514650.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma niveum;Diderma niveum;	99.69	328	93.16
+MW514651.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma niveum;Diderma niveum;	99.69	326	93.09
+MW514653.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Didymiaceae;Diderma niveum;Diderma niveum;	100	326	93.21
+MW691500.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum albescens;Physarum albescens;	99.82	562	94.08
+MW691576.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum albescens;Physarum albescens;	99.63	548	94.67
+MW691578.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Physarum albescens;Physarum albescens;	100	542	94.76
+MW693018.E	Eukaryota;Amoebozoa;Myxogastria;Physarales;Physaraceae;Fuligo septica;Fuligo septica;	89.73	575	88.17
+MZ005927.E	Eukaryota;Amoebozoa;Myxogastria;	99.66	589	88.91
+MZ241467.E	Eukaryota;Amoebozoa;Myxogastria;Stemonitales;Stemonitacea;Lamproderma scintillans;Lamproderma scintillans;	91.37	591	89.27
