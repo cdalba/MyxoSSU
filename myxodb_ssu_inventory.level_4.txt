@@ -1,6 +1,0 @@
-Eukaryota;Amoebozoa;Myxogastria;Ceratiomyxales	4
-Eukaryota;Amoebozoa;Myxogastria;Echinosteliales	12
-Eukaryota;Amoebozoa;Myxogastria;Liceales	20
-Eukaryota;Amoebozoa;Myxogastria;Physarales	633
-Eukaryota;Amoebozoa;Myxogastria;Stemonitales	302
-Eukaryota;Amoebozoa;Myxogastria;Trichiales	42
