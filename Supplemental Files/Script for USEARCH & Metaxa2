@@ -1,0 +1,14 @@
+# Dereplicate via usearch
+    usearch -fastx_uniques ssu_seq.fasta -fastaout ssu_derep_seq.fasta -tabbedout ssu_derep.txt 
+
+# Hard mask and build udb via usearch
+    usearch -makeudb_ublast ssu_derep_seq.fasta -hardmask -output ssu_masked_seq.udb
+
+# Convert udb to fasta via usearch
+    usearch -udb2fasta ssu_masked_seq.udb -output ssu_masked_seq.fasta
+
+# Classify, extract, and evaluate database via metaxa2_dbb
+    metaxa2_dbb -e ssu_masked_seq.fasta -t ssu_taxo.txt -o myxodb_ssu_divmode -g ssu --auto_rep T --cpu 2 --save_raw T --plus T --filter_uncultured T --correct_taxonomy T --evaluate T --mode divergent
+
+# Database inventory via metaxa2_ttt
+    metaxa2_ttt -i blast.taxonomy.txt -o myxodb-ssu-inventory -t e -l 0
