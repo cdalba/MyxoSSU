@@ -6,4 +6,6 @@ Sequences included in this database were retrieved from peer-reviewed barcoding 
 
 MyxoSSU can be used to help researchers accurately annotate myxomycetes down to the species level. 
 
-### (c) C.D Alba & S.U. Fahrenbach
+# Included in this Repository are the MyxoSSU database, and the computer codes and other data generated
+
+### ©2022 C.D Alba & S.U. Fahrenbach
