@@ -8,4 +8,4 @@ MyxoSSU can be used to help researchers accurately annotate myxomycetes down to 
 
 Included in this repository are the MyxoSSU database, the computer codes, and other data generated during the study.
 
-### ©2022 C.D. Alba & S.U. Fahrenbach
+### ©2022, C.D. Alba & S.U. Fahrenbach
